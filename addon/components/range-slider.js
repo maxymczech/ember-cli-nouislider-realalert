@@ -6,7 +6,7 @@ import { run } from '@ember/runloop';
 import { isEmpty } from '@ember/utils';
 import { observer, computed } from '@ember/object';
 import Ember from 'ember';
-import noUiSlider from 'noUiSlider';
+import noUiSlider from 'nouislider';
 
 const {
   Logger: { warn }
